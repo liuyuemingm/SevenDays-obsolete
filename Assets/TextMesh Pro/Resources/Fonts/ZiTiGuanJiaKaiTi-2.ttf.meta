@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 70e4f428ff9ad7d4488c5895b36868a9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - AaKaiTi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b9512b20d689b8941a0702a33ae9b55d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
